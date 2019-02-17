@@ -1,9 +1,76 @@
-// Success $
-// Closest @
-// No height input ^
-// No box input %
+// Success headers use $
+// Closest headers use @
+// Button no height issues use ^
+// Button no box issues use %
 
-$Dang good work yo!!!!
-@That sucks dawg!@!@@
-^Input some height dudeFJIODFJ
-%Need some mo fuckin boxes😀
+$Oh yeah!
+$Sweet!
+$Right on!
+$Epic!
+$Perfect!
+$Well I'll be!
+$But of course!
+$Oh, duh!
+$Duh!
+$Of course!
+$The fewest boxes needed!
+$Exactly what you need!
+$No more, no less!
+$Keep 'em coming!
+$That was easy!
+$Not a problem!
+$Radical!
+$Tubular!
+$Righteous!
+$Phew!
+$This is perfect!
+$The most efficient way!
+$The fewest boxes possible!
+$Doesn't get any better!
+$Spot on!
+$Wooo! A perfect match!
+$That's the ticket!
+$Excellent!
+$Success!
+$Winner winner!
+$Sexy!
+$Oh yes!
+$Awesome!
+$Got it!
+$Yes!
+$Efficient!
+$Perfection!
+
+@Not possible, but here are some choices.
+@Not doable, but here are the best options.
+@Impossible, but how about this?
+@No matches, but here's what you can do.
+@No matches possible, but these are close.
+@No matches, but this might do.
+@No matches, but try this instead.
+@No matches, but give this a shot.
+@No matches, but here are your best options.
+@Not possible, but try these options.
+@No matches, but try this.
+@Not possible, but what about this?
+@Dang, no matches. Try this instead.
+@Bummer, that won't work. Try this instead.
+@Impossible, but hopefully this could work.
+@Not possible, but maybe this works?
+@No matches. Maybe this will do?
+@No matches, but can you make this work?
+
+^Choose a height, dummy!
+^Need a height!
+^Enter a height!
+^Need height to work!
+^Enter height first!
+
+%Need apple boxes, fool!
+%APPLE BOXES!
+%Add apple boxes first!
+%Need boxes to work!
+%Need apple boxes!
+%Need them boxes!
+%Enter some boxes!
+%Boxes first!
