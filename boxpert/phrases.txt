@@ -1,9 +1,9 @@
-Great job!
-Way to go!
-No way!
-Sick!
-$
-How about this?
-Oh no, but what about this?
-What about this?
-Hmm, try this instead.
+$Great job!
+$Way to go!
+$No way!
+$Sick!
+
+@How about this?
+@Oh no, but what about this?
+@What about this?
+@Hmm, try this instead.
