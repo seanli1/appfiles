@@ -1,4 +1,9 @@
-$Dang good work yo
-@That sucks dawg
-^Input some height dude
-%Need some mo fuckin boxes
+// Success $
+// Closest @
+// No height input ^
+// No box input %
+
+$Dang good work yo!!!!
+@That sucks dawg!@!@@
+^Input some height dudeFJIODFJ
+%Need some mo fuckin boxes😀
