@@ -18,8 +18,6 @@
 #That's it! Boxpert tells you exactly what boxes you need to achieve that height. No more fumbling on set.
 #
 #If an exact match isn’t possible with what you have, you’ll still get the closest solutions.
-#
-#Just order more boxes next time. 😉
 
 
 
