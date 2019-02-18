@@ -40,17 +40,28 @@ $Got it!
 $Yes!
 $Efficient!
 $Perfection!
+$Ohhh snap!
+$Awww snap!
+$Oh goodie!
+$Splendid!
+$Wonderful!
+$Fantastic!
+$Amazing!
+$Imagine that!
+$Rad!
+$Most efficient!
+$Imagine if you hadn't checked!
 
 @Not possible, but here are some choices.
 @Not doable, but here are the best options.
 @Impossible, but how about this?
 @No matches, but here's what you can do.
-@No matches possible, but these are close.
+@No matches possible, but this is the best answer.
 @No matches, but this might do.
 @No matches, but try this instead.
 @No matches, but give this a shot.
 @No matches, but here are your best options.
-@Not possible, but try these options.
+@Not possible, but try this.
 @No matches, but try this.
 @Not possible, but what about this?
 @Dang, no matches. Try this instead.
@@ -65,6 +76,8 @@ $Perfection!
 ^Enter a height!
 ^Need height to work!
 ^Enter height first!
+^Must know how high!
+^Enter a target height!
 
 %Need apple boxes, fool!
 %APPLE BOXES!
