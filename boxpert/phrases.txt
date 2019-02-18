@@ -2,6 +2,13 @@
 // Closest headers use @
 // Button no height issues use ^
 // Button no box issues use %
+// Instructions uses # (if multiple by accident, will use the last one)
+// Credits use * (if multiple by accident, will use the last one)
+
+
+#instructions here!
+*credits here!
+
 
 $Oh yeah!
 $Sweet!
