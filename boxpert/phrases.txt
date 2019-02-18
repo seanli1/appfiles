@@ -51,6 +51,14 @@ $Imagine that!
 $Rad!
 $Most efficient!
 $Imagine if you hadn't checked!
+$😎
+$😍
+$😘
+$🤯
+$🤩
+$👍
+$👌
+$🥳
 
 @Not possible, but here are some choices.
 @Not doable, but here are the best options.
@@ -70,20 +78,23 @@ $Imagine if you hadn't checked!
 @Not possible, but maybe this works?
 @No matches. Maybe this will do?
 @No matches, but can you make this work?
+@😡
+@🤬
+@😩
 
-^Choose a height, dummy!
-^Need a height!
-^Enter a height!
-^Need height to work!
-^Enter height first!
-^Must know how high!
-^Enter a target height!
+^Choose a height, dummy! 🤦🏻‍♂️
+^Need a height! 🤦🏻‍♂️
+^Enter a height! 🤦🏻‍♂️
+^Need height to work! 🤦🏻‍♂️
+^Enter height first! 🤦🏻‍♂️
+^Must know how high! 🤦🏻‍♂️
+^Enter a target height! 🤦🏻‍♂️
 
-%Need apple boxes, fool!
-%APPLE BOXES!
-%Add apple boxes first!
-%Need boxes to work!
-%Need apple boxes!
-%Need them boxes!
-%Enter some boxes!
-%Boxes first!
+%Need apple boxes, fool! 🤦🏻‍♂️
+%APPLE BOXES! 🤦🏻‍♂️
+%Add apple boxes first! 🤦🏻‍♂️
+%Need boxes to work! 🤦🏻‍♂️
+%Need apple boxes! 🤦🏻‍♂️
+%Need them boxes! 🤦🏻‍♂️
+%Enter some boxes! 🤦🏻‍♂️
+%Boxes first! 🤦🏻‍♂️
