@@ -6,16 +6,25 @@
 // Credits use * (if multiple by accident, will use the last one)
 
 
-#Find out how to use the apple boxes in your stash to get to an exact height.
+
+#Use Boxpert to stack apple boxes to a certain height using what you have:
 #
-#1. Enter the boxes you have available to use.
+#1.  Enter the boxes you have available.
 #
-#2. Select which orientations work for you. In some cases, you can use the taller orientation, and in other cases, you want them all to be flat for the best stability. You get to choose what’s best for your situation.
+#2.  Select orientations that work for you. For example, sometimes you want them all to be flat (LA) for best stability. Choose based on your situation.
 #
-#3. Pick the height you’re aiming for. If an exact match isn’t possible given what you’ve entered, you’ll still get the closest solution. Just order more boxes next time. 😉
+#3.  Select your target height and press the button.
+#
+#That's it! Boxpert tells you exactly what boxes you need to achieve that height. No more fumbling on set.
+#
+#If an exact match isn’t possible with what you have, you’ll still get the closest solutions.
+#
+#Just order more boxes next time. 😉
+
 
 
 *Revolver Lighting & Grip
+
 
 
 $Oh yeah!
