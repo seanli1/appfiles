@@ -2,11 +2,17 @@
 // Closest headers use @
 // Button no height issues use ^
 // Button no box issues use %
-// Instructions uses # (if multiple by accident, will use the last one)
+// Instructions uses #
 // Credits use * (if multiple by accident, will use the last one)
 
 
-#Find out how to use the apple boxes in your stash to get to an exact height.\n\n1. Enter the boxes you have available to use.\n\n2. Select which orientations work for you. In some cases, you can use the taller orientation, and in other cases, you want them all to be flat for the best stability. You get to choose what’s best for your situation.\n\n3. Pick the height you’re aiming for. If an exact match isn’t possible given what you’ve entered, you’ll still get the closest solution. Just order more boxes next time. 😉
+#Find out how to use the apple boxes in your stash to get to an exact height.
+#
+#1. Enter the boxes you have available to use.
+#
+#2. Select which orientations work for you. In some cases, you can use the taller orientation, and in other cases, you want them all to be flat for the best stability. You get to choose what’s best for your situation.
+#
+#3. Pick the height you’re aiming for. If an exact match isn’t possible given what you’ve entered, you’ll still get the closest solution. Just order more boxes next time. 😉
 
 
 *Revolver Lighting & Grip
