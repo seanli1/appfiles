@@ -17,14 +17,15 @@
 #
 #3.  Select your target height and press the button.
 #
+#
 #That's it! Boxpert tells you exactly what you need to achieve that height. No more fumbling on set.
 #
 #If an exact match isn’t possible with what you have, you’ll still get the closest solutions.
 #
 #
-#Boxpert is partial to using larger boxes as well as LA orientations, so you get the most stable solution possible.
+#* Boxpert is partial to using larger boxes as well as LA orientations, so you get the most stable solution possible.
 #
-#Lastly, a pro tip: In certain situations, it can help to subtract an inch and bring wedges. Hope you enjoy!
+#* Lastly, a pro tip: In certain situations, it can help to subtract an inch and bring wedges. Hope you enjoy!
 
 
 *Revolver Lighting & Grip
