@@ -6,19 +6,21 @@
 // Credits use * (if multiple by accident, will use the last one)
 
 
-
-#Use Boxpert to stack apple boxes to a certain height using what you have:
+#Simply put, Boxpert's goal is to quickly tell you how to stack apple boxes to an exact height using the fewest number of boxes, based on what you have:
 #
-#1.  Enter the boxes you have available.
+#1.  Enter the boxes that are available.
 #
 #2.  Select orientations that work for you. For example, sometimes you want them all to be flat (LA) for best stability. Choose based on your situation.
 #
 #3.  Select your target height and press the button.
 #
-#That's it! Boxpert tells you exactly what boxes you need to achieve that height. No more fumbling on set.
+#That's it! Boxpert tells you exactly what you need to achieve that height. No more fumbling on set.
 #
 #If an exact match isn’t possible with what you have, you’ll still get the closest solutions.
-
+#
+#Boxpert is partial to using larger boxes as well as LA orientations first to get you the most stable solution possible.
+#
+#Lastly, a pro tip: In certain situations, it can help to subtract an inch and bring wedges. Hope you enjoy!
 
 
 *Revolver Lighting & Grip
@@ -37,12 +39,10 @@ $Duh!
 $Of course!
 $The fewest boxes needed!
 $Exactly what you need!
-$No more, no less!
 $Keep 'em coming!
 $That was easy!
 $Not a problem!
 $Radical!
-$Tubular!
 $Righteous!
 $Phew!
 $This is perfect!
@@ -50,7 +50,8 @@ $The most efficient way!
 $The fewest boxes possible!
 $Doesn't get any better!
 $Spot on!
-$Wooo! A perfect match!
+$Wooo!
+$A perfect match!
 $That's the ticket!
 $Excellent!
 $Success!
@@ -63,7 +64,6 @@ $Yes!
 $Efficient!
 $Perfection!
 $Ohhh snap!
-$Awww snap!
 $Oh goodie!
 $Splendid!
 $Wonderful!
@@ -72,15 +72,19 @@ $Amazing!
 $Imagine that!
 $Rad!
 $Most efficient!
-$Imagine if you hadn't checked!
-$😎
-$😍
-$😘
-$🤯
-$🤩
-$👍
-$👌
-$🥳
+
+// $Tubular!
+// $No more, no less!
+// $Awww snap!
+// $Imagine if you hadn't checked!
+// $😎
+// $😍
+// $😘
+// $🤯
+// $🤩
+// $👍
+// $👌
+// $🥳
 
 @Not possible, but here are some choices.
 @Not doable, but here are the best options.
@@ -100,16 +104,17 @@ $🥳
 @Not possible, but maybe this works?
 @No matches. Maybe this will do?
 @No matches, but can you make this work?
-@😡
-@🤬
-@😩
+
+// @😡
+// @🤬
+// @😩
 
 ^Choose a height, dummy! 🤦🏻‍♂️
 ^Need a height! 🤦🏻‍♂️
 ^Enter a height! 🤦🏻‍♂️
-^Need height to work! 🤦🏻‍♂️
+// ^Need height to work! 🤦🏻‍♂️
 ^Enter height first! 🤦🏻‍♂️
-^Must know how high! 🤦🏻‍♂️
+// ^Must know how high! 🤦🏻‍♂️
 ^Enter a target height! 🤦🏻‍♂️
 
 %Need apple boxes, fool! 🤦🏻‍♂️
