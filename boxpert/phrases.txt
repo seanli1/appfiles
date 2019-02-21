@@ -6,11 +6,14 @@
 // Credits use * (if multiple by accident, will use the last one)
 
 
-#Simply put, Boxpert's goal is to quickly tell you how to stack apple boxes to an exact height using the fewest number of boxes, based on what you have:
+#Boxpert's simple goal is to quickly tell you how to stack apple boxes to an exact height using the fewest number of boxes.
 #
-#1.  Enter the boxes that are available.
 #
-#2.  Select orientations that work for you. For example, sometimes you want them all to be flat (LA) for best stability. Choose based on your situation.
+#INSTRUCTIONS:
+#
+#1.  Enter the number of apple boxes available.
+#
+#2.  Choose orientations that work for you. For example, sometimes you want them all to be flat (LA) for best stability. Choose based on your situation.
 #
 #3.  Select your target height and press the button.
 #
@@ -18,12 +21,13 @@
 #
 #If an exact match isn’t possible with what you have, you’ll still get the closest solutions.
 #
-#Boxpert is partial to using larger boxes as well as LA orientations first to get you the most stable solution possible.
+#
+#Boxpert is partial to using larger boxes as well as LA orientations, so you get the most stable solution possible.
 #
 #Lastly, a pro tip: In certain situations, it can help to subtract an inch and bring wedges. Hope you enjoy!
 
 
-// *Revolver Lighting & Grip
+*Revolver Lighting & Grip
 
 
 
