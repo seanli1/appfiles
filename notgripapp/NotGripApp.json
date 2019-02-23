@@ -1,0 +1,17 @@
+{
+  "Single Extension (a.k.a. Single or Stinger)" : {
+    "department" : "Electric",
+    "specs" : "Typically 12/3 SJOOW cable with NEMA 5-15R connectors. Come in various lengths, but typically 25', 50', or 100' long.",
+    "description" : "Electrical extension cords used ubiquitously on set where power is needed."
+  },
+  "Apple Box" : {
+    "department" : "Grip",
+    "specs" : "Full: 20\"x12\"x8\", Half: 20\"x12\"x4\", Quarter: 20\"x12\"x2\", Pancake: 20\"x12\"x1\"",
+    "description" : "Wooden boxes, sized to industry standard. They are one of the most used and versatile pieces of gear on set."
+  },
+  "Sandbag" : {
+    "department" : "Grip",
+    "specs" : "Come in various sizes, shapes, and weights.",
+    "description" : "Bags of sand used to weigh down objects on set, usually stands."
+  }
+}

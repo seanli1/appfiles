@@ -1,12 +1,12 @@
 {
-"FirstNames" : [
-"Sean",
-"John",
-"Billy",
-"Bobby"
-],
-"LastNames" : [
-"Henry",
-"Eighth"
-]
+    "FirstNames" : [
+        "Sean",
+        "John",
+        "Billy",
+        "Bobby"
+    ],
+    "LastNames" : [
+        "Henry",
+        "Eighth"
+    ]
 }
