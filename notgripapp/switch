@@ -1,4 +1,4 @@
-On
-First two characters are checked (case-sensitive).
+message: 
+First two chars are checked (case-sensitive).
 If incorrect, app doesn't function.
-If "message: ", app displays message.
+Additionally, if "message: ", app displays message.
