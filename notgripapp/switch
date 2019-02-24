@@ -1,3 +1,4 @@
-on
+On
 First two characters are checked (case-sensitive).
-If incorrect, this file becomes the displayed message.
+If incorrect, app doesn't function.
+If "message: ", app displays message.
