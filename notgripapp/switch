@@ -1,1 +1,3 @@
-on - first two chars are checked
+on
+First two characters are checked (case-sensitive).
+If incorrect, this file becomes the displayed message.
