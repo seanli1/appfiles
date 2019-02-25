@@ -1,5 +1,6 @@
 on
-First two chars are checked only (case-sensitive).
+First chars are validated (case-sensitive).
 If incorrect, app doesn't function.
-If "message: ", app displays this. (Don't forget the space, and write in one line.)
-Only have one chance. Once user gets error, it doesn't reset for 24 hours.
+If "message: ", app displays this.
+Don't forget the space, and make sure to write in one line.
+Only have one chance: Once user gets error, it doesn't reset for 24 hours.
