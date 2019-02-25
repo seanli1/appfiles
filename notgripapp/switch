@@ -1,3 +1,4 @@
+message
 on
 First two chars are checked only (case-sensitive).
 If incorrect, app doesn't function.
