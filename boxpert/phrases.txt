@@ -5,6 +5,7 @@
 // Button "no orientation" issues use &
 // Instructions uses #
 // Credits use * (if multiple by accident, will use the last one)
+// Splash screen messages use +
 
 
 #Boxpert's simple goal is to quickly tell you how to stack apple boxes to an exact height using the fewest number of boxes.
@@ -137,3 +138,8 @@ $Most efficient!
 &You turned off all the switches 🤦🏻‍♂️
 &Need to allow an orientation 🤦🏻‍♂️
 &Need to turn on an orientation 🤦🏻‍♂️
+
++TFW people need you to stack boxes this instant, so you pull out your phone.
++Because we've all had to figure it out on the spot.
++For reducing guesswork. (Disclaimer: Probably still annoying.)
++Tip: Enter an inch below, and bring some wedges.
