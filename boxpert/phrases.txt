@@ -30,7 +30,7 @@
 #* Lastly, a pro tip: In certain situations, it can help to subtract an inch and bring wedges. Hope you enjoy!
 
 
-// *Revolver Lighting & Grip
+*Revolver Lighting & Grip
 
 
 
@@ -125,10 +125,10 @@ $Most efficient!
 ^Enter a target height! 🤦🏻‍♂️
 
 %Need apple boxes, fool! 🤦🏻‍♂️
-%APPLE BOXES! 🤦🏻‍♂️
-%Add apple boxes first! 🤦🏻‍♂️
+// %APPLE BOXES! 🤦🏻‍♂️
+// %Add apple boxes first! 🤦🏻‍♂️
 %Need boxes to work! 🤦🏻‍♂️
-%Need apple boxes! 🤦🏻‍♂️
-%Need them boxes! 🤦🏻‍♂️
+// %Need apple boxes! 🤦🏻‍♂️
+// %Need them boxes! 🤦🏻‍♂️
 %Enter some boxes! 🤦🏻‍♂️
-%Boxes first! 🤦🏻‍♂️
+// %Boxes first! 🤦🏻‍♂️
