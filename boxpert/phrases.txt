@@ -139,7 +139,8 @@ $Most efficient!
 &Need to allow an orientation 🤦🏻‍♂️
 &Need to turn on an orientation 🤦🏻‍♂️
 
-+When you're on your phone on set, but it's actually work stuff.
-+Because we've all had to figure it out on the spot.
-+For reducing guesswork. (Disclaimer: Probably still annoying.)
+// +When you're on your phone on set, but it's actually work stuff.
+// +Because we've all had to figure it out on the spot.
++This app makes a crappy task less crappy. Not by much though.
 +Tip: Enter an inch below, and bring some wedges.
++The original name for this app was Apple Blocks. It got rejected.
