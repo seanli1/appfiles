@@ -1,11 +1,222 @@
 [
   {
-    "name" : "Test Name Of Light",
-    "wattage" : 3000,
-    "isActive" : false
-  }, {
-    "name" : "Test Name Light Number Two",
-    "wattage" : 1050,
+    "name" : "4'x4 Bank Quasar Kino",
+    "wattage" : 200,
     "isActive" : true
-  }
+  },
+  {
+    "name" : "2'x4 Bank Quasar Kino",
+    "wattage" : 100,
+    "isActive" : true
+  },
+  {
+    "name" : "K5600 Joker 800",
+    "wattage" : 800,
+    "isActive" : true
+  },
+  {
+    "name" : "K5600 Joker 400",
+    "wattage" : 400,
+    "isActive" : true
+  },
+  {
+    "name" : "K5600 Joker 1600",
+    "wattage" : 1600,
+    "isActive" : true
+  },
+  {
+    "name" : "Joleko 400",
+    "wattage" : 400,
+    "isActive" : true
+  },
+  {
+    "name" : "Joleko 800",
+    "wattage" : 800,
+    "isActive" : true
+  },
+  {
+    "name" : "Source Four 750W Leko",
+    "wattage" : 750,
+    "isActive" : true
+  },
+  {
+    "name" : "Arrilite 750+ Open Face",
+    "wattage" : 750,
+    "isActive" : true
+  },
+  {
+    "name" : "Arrilite 2000+ Open Face",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri 150W Fresnel",
+    "wattage" : 150,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri 300W Fresnel",
+    "wattage" : 300,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri 650W Fresnel",
+    "wattage" : 650,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri T1",
+    "wattage" : 1000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri T2",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri T5",
+    "wattage" : 5000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri T12 (10K)",
+    "wattage" : 10000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri T12",
+    "wattage" : 12000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri M18",
+    "wattage" : 1800,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri M40",
+    "wattage" : 4000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri M90",
+    "wattage" : 9000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri ArriMax 18",
+    "wattage" : 18000,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri SkyPanel S60-C",
+    "wattage" : 450,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri SkyPanel S30-C",
+    "wattage" : 220,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri SkyPanel S120-C",
+    "wattage" : 430,
+    "isActive" : true
+  },
+  {
+    "name" : "Arri SkyPanel S360-C",
+    "wattage" : 1600,
+    "isActive" : true
+  },
+  {
+    "name" : "Jem Ball 1kW",
+    "wattage" : 1000,
+    "isActive" : true
+  },
+  {
+    "name" : "Jem Ball 500W",
+    "wattage" : 500,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 1k Softlite",
+    "wattage" : 1000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 2k Softlite",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 2k Spacelite",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 6k Spacelite",
+    "wattage" : 6000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 5k Fresnel",
+    "wattage" : 5000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 10k Fresnel",
+    "wattage" : 10000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 6k 6-Light Molepar",
+    "wattage" : 6000,
+    "isActive" : true
+  },
+  {
+    "name" : "Mole 9k 9-Light Molepar",
+    "wattage" : 9000,
+    "isActive" : true
+  },
+  {
+    "name" : "💨 Rosco DF-50 Hazer",
+    "wattage" : 575,
+    "isActive" : true
+  },
+  {
+    "name" : "🔌 Video Village",
+    "wattage" : 100,
+    "isActive" : true
+  },
+  {
+    "name" : "🔌 Charging Station",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "🔌 HMU",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "🔌 Crafty",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "🔌 DIT",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "⚡️ 60A Box",
+    "wattage" : 2000,
+    "isActive" : true
+  },
+  {
+    "name" : "⚡️ 100A Box",
+    "wattage" : 2000,
+    "isActive" : true
+  },
 ]
