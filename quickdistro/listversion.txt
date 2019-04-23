@@ -1,3 +1,4 @@
 4
 
-This number must only count up
+This number must only count up.
+The app only saves the highest value it has encountered.
