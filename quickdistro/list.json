@@ -212,11 +212,11 @@
   {
     "name" : "⚡️ 60A Box",
     "wattage" : 2000,
-    "isActive" : true
+    "isActive" : false
   },
   {
     "name" : "⚡️ 100A Box",
     "wattage" : 2000,
-    "isActive" : true
+    "isActive" : false
   },
 ]
