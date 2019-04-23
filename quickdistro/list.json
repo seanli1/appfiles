@@ -1,9 +1,11 @@
-{
-"name" : "Test Name Of Light",
-"wattage" : 3000,
-"isActive" : false
-}, {
-"name" : "Test Name Light Number Two",
-"wattage" : 1050,
-"isActive" : true
-}
+[
+  {
+    "name" : "Test Name Of Light",
+    "wattage" : 3000,
+    "isActive" : false
+  }, {
+    "name" : "Test Name Light Number Two",
+    "wattage" : 1050,
+    "isActive" : true
+  }
+]
