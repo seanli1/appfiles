@@ -144,3 +144,5 @@ $Most efficient!
 +This app makes a crappy task less crappy. Not by much though.
 +Tip: Enter an inch below, and bring some wedges.
 +The original name for this app was Apple Blocks. It got rejected.
++Tip: App is partial to bigger boxes and flatter orientations.
++Odd-numbered heights are impossible without pancakes.
