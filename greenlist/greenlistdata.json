@@ -19,10 +19,7 @@
     {
         "category": "Less Pollution",
         "action": "Bike Instead Of Drive When Possible",
-        "description": [
-            "Let's face it. Most of the time",
-            " you simply can't get somewhere without driving a car. But keep an eye out for those times that you can walk or ride a bike. Stop and smell the roses!"
-        ],
+        "description": "Let's face it. Most of the time, you simply can't get somewhere without driving a car. But keep an eye out for those times that you can walk or ride a bike. Stop and smell the roses!",
         "lifestyleChange": 4,
         "difficulty": 3,
         "cost": 1,
@@ -40,12 +37,7 @@
     {
         "category": "Save Resources",
         "action": "Put AC On A Timer At Night",
-        "description": [
-            "Do you leave the AC on all night? If so",
-            " do you need it all night",
-            " or do you just need it to go to sleep? Try putting it on a timer. Even if it goes off 5 hours after you've been asleep",
-            " that's still a few hours it would have been on unnecessarily. Save money and electricity."
-        ],
+        "description": "Do you leave the AC on all night? If so, do you need it all night, or do you just need it to go to sleep? Try putting it on a timer. Even if it goes off 5 hours after you've been asleep, that's still a few hours it would have been on unnecessarily. Save money and electricity.",
         "lifestyleChange": 3,
         "difficulty": 1,
         "cost": 2,
