@@ -1,0 +1,617 @@
+[{
+        "name": "Altus AFB",
+        "dsnNumber": "866-7479",
+        "commercialNumber": "580-481-7479",
+        "email": "97CPTS.FMFC@us.af.mil",
+        "address": "308 North 1st St, suite 1301, Altus AFB OK, 73523"
+    },
+    {
+        "name": "Andersen AFB",
+        "dsnNumber": "315-366-1770",
+        "commercialNumber": "671-366-1770",
+        "email": "36CPTSHELP@us.af.mil",
+        "address": "Unit 14003, Box 31, APO AP, 96543-4003"
+    },
+    {
+        "name": "Andrews JB",
+        "dsnNumber": "857-6377",
+        "commercialNumber": "1-877-729-2339",
+        "email": "usafjba.11cpts.custsvc@mail.mil",
+        "address": "1500 West Perimeter Rd, Suite 2780, JB Andrews MD, 20762"
+    },
+    {
+        "name": "Arnold AFB",
+        "dsnNumber": "340-4356",
+        "commercialNumber": "931-454-4356",
+        "email": "aedc.affinancecustomerservice@us.af.mil",
+        "address": "100 Kindel Drive, Suite A308, Arnold AFB TN, 37389"
+    },
+    {
+        "name": "Aviano AB",
+        "dsnNumber": "314-632-2274",
+        "commercialNumber": "011-39-0434-632-2274",
+        "email": "31cpts.fmf@us.af.mil",
+        "address": "Unit 6142 Box 145, APO AE, 09604"
+    },
+    {
+        "name": "Barksdale AFB",
+        "dsnNumber": "781-4733",
+        "commercialNumber": "318-456-4733",
+        "email": "Pay@US.AF.MIL",
+        "address": "801 Kenney Avenue, Bldg 4400 Barksdale AFB LA, 71110-2045"
+    },
+    {
+        "name": "Beale AFB",
+        "dsnNumber": "368-2218",
+        "commercialNumber": "530-634-2218",
+        "email": "9cpts.fm@us.af.mil",
+        "address": "17855 Warren Shingle Road, Beale AFB CA, 95903"
+    },
+    {
+        "name": "Bolling AFB",
+        "dsnNumber": "297-0139",
+        "commercialNumber": "202-767-0139",
+        "email": "usafjbab.bolling.custsvc@mail.mil",
+        "address": "20 MacDill Blvd., Suite 240, Washington DC 20032"
+    },
+    {
+        "name": "Buckley AFB",
+        "dsnNumber": "847-6416",
+        "commercialNumber": "720-847-6416",
+        "email": "finance.service@us.af.mil",
+        "address": "510 South Aspen Street, Stop 84, Buckley AFB CO, 80011"
+    },
+    {
+        "name": "Cannon AFB",
+        "dsnNumber": "784-1161/4161",
+        "commercialNumber": "575-784-1161/4161",
+        "email": "financehelp@us.af.mil",
+        "address": "110 E. Sextant Avenue, Bldg 600, Suite 1119, Cannon AFB NM, 88103-5324"
+    },
+    {
+        "name": "Charleston AFB",
+        "dsnNumber": "673-3702",
+        "commercialNumber": "843-963-3702",
+        "email": "628cpts.finance@us.af.mil",
+        "address": "102 North Davis Drive, Building 322, Charleston AFB SC, 29404"
+    },
+    {
+        "name": "Columbus AFB",
+        "dsnNumber": "742-2705",
+        "commercialNumber": "662-434-2705",
+        "email": "14CPTS.FCS@us.af.mil",
+        "address": "495 Harpe Blvd., Suite 256C, Columbus AFB MS, 39710"
+    },
+    {
+        "name": "Davis Monthan AFB",
+        "dsnNumber": "228-5111",
+        "commercialNumber": "520-228-5111",
+        "email": "355cpts@us.af.mil",
+        "address": "5275 East Granite Street, Davis-Monthan AFB AZ, 85707-3014"
+    },
+    {
+        "name": "Dover AFB",
+        "dsnNumber": "445-4486",
+        "commercialNumber": "302-677-4486",
+        "email": "436CPTS.FMF.FMCustServ@us.af.mil",
+        "address": "520 Atlantic Avenue Room 127, Dover AFB DE, 19902"
+    },
+    {
+        "name": "Dyess AFB",
+        "dsnNumber": "461-4193",
+        "commercialNumber": "325-696-4193",
+        "email": "7cpts.fmfc2@us.af.mil",
+        "address": "7 Lancer Loop, Suite 122, Dyess AFB TX, 79607-2050"
+    },
+    {
+        "name": "Edwards AFB",
+        "dsnNumber": "527-4550",
+        "commercialNumber": "661-277-4550",
+        "email": "customer.service@edwards.af.mil",
+        "address": "5 S. Wolfe Avenue, Building 2800, Edwards AFB CA, 93524"
+    },
+    {
+        "name": "Eglin AFB",
+        "dsnNumber": "872-1114",
+        "commercialNumber": "850-882-1114",
+        "email": "96cpts.financialcustomerservices@eglin.af.mil",
+        "address": "208 West D Avenue, Suite 104, Eglin AFB FL, 32542"
+    },
+    {
+        "name": "Eielson AFB",
+        "dsnNumber": "317-377-2787",
+        "commercialNumber": "907-377-2787",
+        "email": "354cpts.customerservice@us.af.mil",
+        "address": "354 Broadway Street, Unit 4B, Eielson AFB AK, 99702"
+    },
+    {
+        "name": "Ellsworth AFB",
+        "dsnNumber": "675-1490",
+        "commercialNumber": "605-385-1490",
+        "email": "28.CPTS.Questions@us.af.mil",
+        "address": "1000 Ellsworth Street, Suite 1100, Ellsworth AFB SD, 57706-4810"
+    },
+    {
+        "name": "Elmendorf AFB",
+        "dsnNumber": "317-552-9940",
+        "commercialNumber": "907-552-9940",
+        "email": "673cpts.helpdesk@.us.af.mil",
+        "address": "8517 20th Street, Suite 103, JBER AK, 99506"
+    },
+    {
+        "name": "F E Warren AFB",
+        "dsnNumber": "481-1851",
+        "commercialNumber": "307-773-1851",
+        "email": "90CPTS.FSO@us.af.mil",
+        "address": "7100 Saber Road, Building 1284, Francis E. Warren AFB WY, 82005"
+    },
+    {
+        "name": "Fairchild AFB",
+        "dsnNumber": "657-3748",
+        "commercialNumber": "509-247-3748",
+        "email": "92CPTS.finance@us.af.mil",
+        "address": "200 West Bong Street, Building 2245, Fairchild AFB WA, 99011-8524"
+    },
+    {
+        "name": "Ft Meade",
+        "dsnNumber": "622-0815",
+        "commercialNumber": "301-677-0815",
+        "email": "70iw.fso@us.af.mil",
+        "address": "9804 Love Road, Suite 115B, Fort Meade MD, 20755"
+    },
+    {
+        "name": "Geilenkirchen AB",
+        "dsnNumber": "314-458-6134",
+        "commercialNumber": "011-49-2451-63-2218",
+        "email": "mircea.rosculet@.us.af.mil",
+        "address": "PSC 7 Box 3485, APO AE, 09104"
+    },
+    {
+        "name": "Goodfellow AFB",
+        "dsnNumber": "477-5181",
+        "commercialNumber": "325-654-5181",
+        "email": "17CPTs.fmf.customerservice@us.af.mil",
+        "address": "351 Kearney Blvd., Building 430, Suite 101, Goodfellow AFB TX, 76908"
+    },
+    {
+        "name": "Grand Forks AFB",
+        "dsnNumber": "362-6302",
+        "commercialNumber": "701-747-6302",
+        "email": "319cpts.customer.service@us.af.mil",
+        "address": "226 Steen Blvd, Grank Forks AFB ND, 58207"
+    },
+    {
+        "name": "Hanscom AFB",
+        "dsnNumber": "845-1210",
+        "commercialNumber": "781-225-1210",
+        "email": "66.CPTS.Pay.Services@us.af.mil",
+        "address": "20 Schilling Circle, Hanscom AFB MA, 01731-2800"
+    },
+    {
+        "name": "Hickam",
+        "dsnNumber": "449-0893",
+        "commercialNumber": "808-449-0893",
+        "email": "15cpts.fmf.2@us.af.mil",
+        "address": "900 Hanger Ave, Rm 110, Joint Base Pearl Harbor-Hickam, HI 96853"
+    },
+    {
+        "name": "Hill AFB",
+        "dsnNumber": "777-1851",
+        "commercialNumber": "801-777-1851",
+        "email": "hill.finance@us.af.mil",
+        "address": "7437 6th Street, Building 430, Hill AFB UT, 84056-5805"
+    },
+    {
+        "name": "Holloman AFB",
+        "dsnNumber": "572-3778",
+        "commercialNumber": "575-572-3778",
+        "email": "49CPTSFSO@holloman.af.mil",
+        "address": "490 First Street, Suite 2113, Holloman AFB NM, 88330-8277"
+    },
+    {
+        "name": "Hurlburt Field",
+        "dsnNumber": "884-4119",
+        "commercialNumber": "850-884-4119",
+        "email": "16cpts.fmfrp@us.af.mil",
+        "address": "212 LukasikAvenue, Suite 129, Hurlburt Field FL, 32544-5269"
+    },
+    {
+        "name": "Incirlik AB",
+        "dsnNumber": "314-676-8114",
+        "commercialNumber": "011-90-332-316-8114",
+        "email": "39cpts.financialservices@us.af.mil",
+        "address": "Unit 7055 Box 155, APO AE, 09824"
+    },
+    {
+        "name": "Kadena AB",
+        "dsnNumber": "315-634-1415/315-634-7349/4000",
+        "commercialNumber": "011-81-611-734-1415/011-81-611-734-7349/4000",
+        "email": "18cpts.finance@us.af.mil",
+        "address": "Unit 5271 Box 10, APO AP, 96368-5271"
+    },
+    {
+        "name": "Keesler AFB",
+        "dsnNumber": "591-8213",
+        "commercialNumber": "228-376-8213",
+        "email": "81CPTS/Travel@us.af.mil",
+        "address": "500 Fisher Street, Room 105, Keesler AFB MS, 39534"
+    },
+    {
+        "name": "Kirtland AFB",
+        "dsnNumber": "246-7258",
+        "commercialNumber": "505-846-7258",
+        "email": "finance4@us.af.mil",
+        "address": "1451 4th Street SE, Kirtland AFB, NM 87117-5522"
+    },
+    {
+        "name": "Kunsan AB",
+        "dsnNumber": "315-782-6636",
+        "commercialNumber": "011-82-63-4793-6636",
+        "email": "8CPTSCustomerService@us.af.mil",
+        "address": "PSC 2 Box 2090, APO AP, 96264-2090"
+    },
+    {
+        "name": "Lackland AFB",
+        "dsnNumber": "473-1851",
+        "commercialNumber": "210-671-1851",
+        "email": "finance.callcenter@us.af.mil",
+        "address": "1561 Stewart Street, Suite 1, Lackland AFB TX, 78236-5213"
+    },
+    {
+        "name": "Lajes Field",
+        "dsnNumber": "314-535-3403",
+        "commercialNumber": "N/A",
+        "email": "cristina.silva@us.af.mil/alex.westing@us.af.mil",
+        "address": "Unit 7710, APO AP, 09720=7710"
+    },
+    {
+        "name": "Langley AFB",
+        "dsnNumber": "574-3333",
+        "commercialNumber": "757-764-3333",
+        "email": "633cpts.service@us.af.mil",
+        "address": "45 Nealy Avenue, Suite 109, Langley AFB VA, 23665"
+    },
+    {
+        "name": "Laughlin AFB",
+        "dsnNumber": "732-5215",
+        "commercialNumber": "830-298-5215",
+        "email": "47ctps.fmf@us.af.mil",
+        "address": "427 Libery Drive, Laughlin AFB TX, 78843-5152"
+    },
+    {
+        "name": "Little Rock AFB",
+        "dsnNumber": "731-8294",
+        "commercialNumber": "501-987-8294",
+        "email": "lr.finance.helpdesk@us.af.mil",
+        "address": "1255 Vandenberg Blvd, Suite 124, Little Rock AFB AR, 72099"
+    },
+    {
+        "name": "Los Angeles AFB",
+        "dsnNumber": "633-2274",
+        "commercialNumber": "310-653-2274",
+        "email": "smcfmf.services@us.af.mil",
+        "address": "483 North Aviation Blvd, El Segundo CA, 90245-2808"
+    },
+    {
+        "name": "Luke AFB",
+        "dsnNumber": "896-7028",
+        "commercialNumber": "623-856-7028",
+        "email": "56cpts.fmfccustomers@us.af.mil",
+        "address": "7383 North Litchfield Road, Suite 1076, Luke AFB AZ, 85309-1526"
+    },
+    {
+        "name": "MacDill AFB",
+        "dsnNumber": "968-5377",
+        "commercialNumber": "813-828-5377",
+        "email": "finance.services@us.af.mil",
+        "address": "2610 Pink Flamingo Avenue, MacDill AFB FL, 33621"
+    },
+    {
+        "name": "Malmstrom AFB",
+        "dsnNumber": "632-3193",
+        "commercialNumber": "406-731-4226",
+        "email": "Finance2@us.af.mil",
+        "address": "7215 Goddard Drive, Bldg 1191, Room 114, Malmstrom AFB MT, 59402-6857"
+    },
+    {
+        "name": "Maxwell AFB",
+        "dsnNumber": "493-3288",
+        "commercialNumber": "334-953-3288",
+        "email": "Maxwell.finance@us.af.mil",
+        "address": "50 LeMay Plaza South Building 804, Maxwell AFB AL, 36112"
+    },
+    {
+        "name": "McChord AFB",
+        "dsnNumber": "382-3945",
+        "commercialNumber": "253-982-3945",
+        "email": "62CPTSHELP@us.af.mil",
+        "address": "100 Col. Joe Jackson Blvd, Suite 1122, JBLM McChord Field WA, 98438"
+    },
+    {
+        "name": "McConnell AFB",
+        "dsnNumber": "743-4618",
+        "commercialNumber": "316-759-4618",
+        "email": "22CPTS.CustomerService-03@us.af.mil",
+        "address": "53155 Kansas Street, Suite 112, McConnell AFB KS, 67221-3608"
+    },
+    {
+        "name": "McGuire AFB",
+        "dsnNumber": "650-3863",
+        "commercialNumber": "609-754-3863",
+        "email": "87cptsfinance@us.af.mil",
+        "address": "2906 Tuskegee Airman Avenue, McGuire AFB NJ, 08641"
+    },
+    {
+        "name": "Minot AFB",
+        "dsnNumber": "453-3309",
+        "commercialNumber": "701-723-2468",
+        "email": "5cpts.fmfc@us.af.mil",
+        "address": "300 Summit Drive, Suite 325, Minot AFB ND, 58705"
+    },
+    {
+        "name": "Misawa AB",
+        "dsnNumber": "315-226-2274",
+        "commercialNumber": "011-81-76-77-2274",
+        "email": "35cptsfmf.1@us.af.mil",
+        "address": "Unit 5009 Box 20, APO AP, 96319-5009"
+    },
+    {
+        "name": "Moody AFB",
+        "dsnNumber": "460-1482",
+        "commercialNumber": "229-257-1482",
+        "email": "moody.finance@us.af.mil",
+        "address": "23 Flying Tiger Way, Suite 170, Moody AFB GA, 31699-1596"
+    },
+    {
+        "name": "Mountain Home AFB",
+        "dsnNumber": "728-2046",
+        "commercialNumber": "208-828-2406",
+        "email": "366CPTS.FinanceCustomerService@us.af.mil",
+        "address": "366 Gunfighter Avenue, Suite 254, Mountain Home AFB ID, 83648"
+    },
+    {
+        "name": "MUNSS - Shape",
+        "dsnNumber": "314-366-6655",
+        "commercialNumber": "011-32-65-326655",
+        "email": "usaf.shape.86-msg.mbx.det-3-786-fss@mail.mil",
+        "address": "Unit 21420 Box 5500, APO AE, 09705"
+    },
+    {
+        "name": "MUNSS - Volkel",
+        "dsnNumber": "359-5947",
+        "commercialNumber": "011-49-041333-5947",
+        "email": "703munss.finance@volkel.spangdahlem.af.mil",
+        "address": "Unit 6790, APO AE, 09717"
+    },
+    {
+        "name": "Nellis AFB",
+        "dsnNumber": "682-4844",
+        "commercialNumber": "702-652-4844",
+        "email": "customerservice@us.af.mil",
+        "address": "4420 Grissom Avenue, Nellis AFB NV, 89191"
+    },
+    {
+        "name": "Offutt AFB",
+        "dsnNumber": "271-3300",
+        "commercialNumber": "402-294-3300",
+        "email": "55CPTS.CustomerService@us.af.mil",
+        "address": "106 Peacekeeper Drive, Suite 2N3 Offutt AFB NE, 68133"
+    },
+    {
+        "name": "Osan AB",
+        "dsnNumber": "315-784-1851",
+        "commercialNumber": "011-82-31-661-1851",
+        "email": "51CPTSCustomerSvs@us.af.mil",
+        "address": "Unit 2067, APO AP, 96278-2067"
+    },
+    {
+        "name": "Patrick AFB",
+        "dsnNumber": "854-4882",
+        "commercialNumber": "321-494-4882",
+        "email": "4finance@us.af.mil",
+        "address": "1225 Jupiter Street, Patrick AFB FL, 32925"
+    },
+    {
+        "name": "Pensacola Corry Station",
+        "dsnNumber": "459-0938",
+        "commercialNumber": "850-452-0938",
+        "email": "479ftg.fmf@us.af.mil",
+        "address": "520 Turner Street, NAS Pensacola FL, 32508"
+    },
+    {
+        "name": "Pentagon",
+        "dsnNumber": "225-1299",
+        "commercialNumber": "703-695-1299",
+        "email": "usafpentagon.11cpts.fm@mail.mil",
+        "address": "1240 Air Force Pentagon Room 5C1049, Washington DC, 20330-1240"
+    },
+    {
+        "name": "Peterson AFB",
+        "dsnNumber": "556-4770",
+        "commercialNumber": "719-834-4770",
+        "email": "21cpts.fmfc@us.af.mil",
+        "address": "135 Dover Street, Suite 2009, Peterson AFB CO, 80914-1137"
+    },
+    {
+        "name": "Pope AFB",
+        "dsnNumber": "424-1412",
+        "commercialNumber": "910-394-1412",
+        "email": "2cpts.service@us.af.mil",
+        "address": "5451 Reilly Street, Pope AFB NC, 28308"
+    },
+    {
+        "name": "Presidio of Monterey",
+        "dsnNumber": "768-6322/5065",
+        "commercialNumber": "831-242-6322/5065",
+        "email": "lawrence.robinson.2@us.af.mil/tyler.trusty@us.af.mil",
+        "address": "412 Rifle Range Road, Building 616, Room 226, Monterey CA, 93944"
+    },
+    {
+        "name": "RAF Alconbury",
+        "dsnNumber": "314-268-3640/3028",
+        "commercialNumber": "011-44-1480-84-3640",
+        "email": "501csw.fmfs.customerservice@us.af.mil",
+        "address": "Unit 5555 Box 9, APO AE, 09470-5555"
+    },
+    {
+        "name": "RAF Lakenheath",
+        "dsnNumber": "314-226-1851",
+        "commercialNumber": "011-44-1638-521-851",
+        "email": "48fw.finance@us.af.mil",
+        "address": "Unit 5170 Box 290, APO AE, 09464"
+    },
+    {
+        "name": "RAF Menwith Hill",
+        "dsnNumber": "314-268-3640/3028",
+        "commercialNumber": "011-44-1480-84-3460/3028",
+        "email": "501csw.fmfs.customerservice@us.af.mil",
+        "address": "Unit 8450, APO AE, 09468"
+    },
+    {
+        "name": "RAF Mildenhall",
+        "dsnNumber": "email only",
+        "commercialNumber": "email only",
+        "email": "100cpts.fmfs@us.af.mil",
+        "address": "Unit 4910 Box 365, APO AE, 09459-0365"
+    },
+    {
+        "name": "Ramstein AB",
+        "dsnNumber": "314-480-7201",
+        "commercialNumber": "011-49-6371-47-7201",
+        "email": "86CPTS.CS@US.AF.MIL",
+        "address": "Unit 3195 Box 305, APO AE, 09094"
+    },
+    {
+        "name": "Randolph AFB",
+        "dsnNumber": "473-1851",
+        "commercialNumber": "210-671-1851",
+        "email": "finance.callcenter@us.af.mil",
+        "address": "550 D Street East, Suite 2, Building 399, Randolph AFB TX, 78150-4428"
+    },
+    {
+        "name": "Robins AFB",
+        "dsnNumber": "468-4022",
+        "commercialNumber": "478-926-4022",
+        "email": "78cpts.fmfc.milpay@us.af.mil",
+        "address": "236 Milledgeville Street, Suite F26, Robins AFB GA, 31098"
+    },
+    {
+        "name": "Rome Labs",
+        "dsnNumber": "587-2226",
+        "commercialNumber": "315-330-2226",
+        "email": "rrs.travel@us.af.mil",
+        "address": "26 Electronic Parkway, Rome NY, 13441"
+    },
+    {
+        "name": "Schriever AFB",
+        "dsnNumber": "560-2010",
+        "commercialNumber": "719-567-2010",
+        "email": "50cpts@us.af.mil",
+        "address": "210 Falcon Parkway, Suite 146A, Schriever AFB CO, 80912-2110"
+    },
+    {
+        "name": "Scott AFB",
+        "dsnNumber": "576-1851",
+        "commercialNumber": "618-256-1851",
+        "email": "Finance@us.af.mil",
+        "address": "215 Heritage Drive, Room D205, Scott AFB IL, 62225-5000"
+    },
+    {
+        "name": "Seymour Johnson AFB",
+        "dsnNumber": "722-5679",
+        "commercialNumber": "919-722-5679",
+        "email": "4cpts.help.desk@us.af.mil",
+        "address": "1600 Wright Brothers Avenue, Seymour Johnson AFB, NC 27531-2441"
+    },
+    {
+        "name": "Shaw AFB",
+        "dsnNumber": "965-1529",
+        "commercialNumber": "803-895-1529",
+        "email": "20cpts.shawpay@us.af.mil",
+        "address": "504 Shaw Drive, Suite 1118, Shaw AFB SC, 29152-5028"
+    },
+    {
+        "name": "Sheppard AFB",
+        "dsnNumber": "736-4864",
+        "commercialNumber": "940-736-4864",
+        "email": "finance.customerservice@us.af.mil",
+        "address": "426 5th Avenue, Suite 9, Sheppard AFB TX, 76311"
+    },
+    {
+        "name": "Spangdahlem AB",
+        "dsnNumber": "314-452-6763",
+        "commercialNumber": "011-49-656561-6763",
+        "email": "52cpts.fmfc@spangdahlem.af.mil",
+        "address": "Unit 3630, APO AE, 09126"
+    },
+    {
+        "name": "Stuttgart",
+        "dsnNumber": "314-430-5603",
+        "commercialNumber": "011-49-0711-680-5603/8340",
+        "email": "52cpts.fmfc@us.af.mil",
+        "address": "Unit 30400, APO AE, 09131-0400"
+    },
+    {
+        "name": "Tinker AFB",
+        "dsnNumber": "339-5180",
+        "commercialNumber": "405-739-5180",
+        "email": "72cpts.fm.customerservice@tinker.af.mil",
+        "address": "3350 D Avenue, Suite N29, Tinker AFB OK, 73145"
+    },
+    {
+        "name": "Travis AFB",
+        "dsnNumber": "837-8359",
+        "commercialNumber": "707-424-8359",
+        "email": "Travis.finance@us.af.mil",
+        "address": "540 Airlift Drive F-1 Wing, Travis AFB CA, 94535-2462"
+    },
+    {
+        "name": "Tyndall AFB",
+        "dsnNumber": "523-4117",
+        "commercialNumber": "850-283-4117",
+        "email": "tyndall.finance.help@us.af.mil",
+        "address": "ATTN:FMF 501 Illinios Ave, Ste 124,Tyndall AFB FL, 32403"
+    },
+    {
+        "name": "USAF Academy",
+        "dsnNumber": "333-4298",
+        "commercialNumber": "719-333-4298",
+        "email": "usafa.fm@us.af.mil",
+        "address": "2304 Cadet Drive, Suite 2200, USAF Academy CO, 80840-5035"
+    },
+    {
+        "name": "Vance AFB",
+        "dsnNumber": "448-7498",
+        "commercialNumber": "580-213-7498",
+        "email": "71cptsfinance.customerservice@us.af.mil",
+        "address": "246 Brown Parkway, Suite 102, Vance AFB OK, 73705-5008"
+    },
+    {
+        "name": "Vandenberg AFB",
+        "dsnNumber": "276-4606",
+        "commercialNumber": "805-606-4606",
+        "email": "30CPTSPayHelp@us.af.mil",
+        "address": "1031 California Blvd., Building 11777, Vandenberg AFB CA, 93437"
+    },
+    {
+        "name": "Whiteman AFB",
+        "dsnNumber": "975-2006",
+        "commercialNumber": "660-687-2006",
+        "email": "509.cpts.fcs@us.af.mil",
+        "address": "509 Spirit Blvd., Suite 115, Whiteman AFB MO, 65305"
+    },
+    {
+        "name": "Wright Patterson AFB",
+        "dsnNumber": "email only",
+        "commercialNumber": "email only",
+        "email": "payhelp@wpafb.af.mil",
+        "address": "1940 Allbrook Drive, Wright-Patterson AFB OH, 45433-5261"
+    },
+    {
+        "name": "Yokota AB",
+        "dsnNumber": "315-225-7825",
+        "commercialNumber": "011-81-311-755-7825",
+        "email": "374cptsfm.fc@us.af.mil",
+        "address": "Unit 5117, Bldg 314, Room 132, APO AP, 96328-5117"
+    }
+]
