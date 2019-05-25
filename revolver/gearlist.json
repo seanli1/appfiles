@@ -1,7 +1,57 @@
 {
     "lights": [{
-        "name": "Arri Skypanel S60-C",
-        "replacementValue": 12000,
-        "notes": "— Remote available\n—Medium softbox w/ 40° egg crate\n—40° SnapGrid egg crate (goes directly on fixture)"
-    }]
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)",
+            "quantity": 2,
+            "gripPackage": null,
+            "cat": "Lights",
+            "subCat1": "LED - Panels"
+        },
+        {
+            "name": "Quasar Q10",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+        {
+            "name": "Arri Skypanel S60-C",
+            "replacementValue": 12000,
+            "notes": "— Remote available\n— Medium softbox w/ 40° egg crate\n— 40° SnapGrid egg crate (goes directly on fixture)"
+        },
+    ]
 }
