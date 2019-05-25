@@ -1,1 +1,5 @@
-{"skypanel":"300"}
+{
+    "lights": [
+        "skypanel"
+    ]
+}
