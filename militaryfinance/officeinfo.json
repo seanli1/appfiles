@@ -74,8 +74,8 @@
     {
         "id": "c2bebcc4-25d1-44e8-b914-fce4ba0c1928",
         "name": "Cannon AFB",
-        "dsnPhone": "784-1161/4161",
-        "commercialPhone": "575-784-1161/4161",
+        "dsnPhone": "784-1161;4161",
+        "commercialPhone": "575-784-1161;4161",
         "email": "financehelp@us.af.mil",
         "address": "110 E. Sextant Avenue, Bldg 600, Suite 1119, Cannon AFB NM, 88103-5324"
     },
@@ -258,8 +258,8 @@
     {
         "id": "5c0ecc28-7854-482d-94d5-bbc62e8bc14a",
         "name": "Kadena AB",
-        "dsnPhone": "315-634-1415/315-634-7349/4000",
-        "commercialPhone": "011-81-611-734-1415/011-81-611-734-7349/4000",
+        "dsnPhone": "315-634-1415/315-634-7349;4000",
+        "commercialPhone": "011-81-611-734-1415/011-81-611-734-7349;4000",
         "email": "18cpts.finance@us.af.mil",
         "address": "Unit 5271 Box 10, APO AP, 96368-5271"
     },
@@ -268,7 +268,7 @@
         "name": "Keesler AFB",
         "dsnPhone": "591-8213",
         "commercialPhone": "228-376-8213",
-        "email": "81CPTS/Travel@us.af.mil",
+        "email": "81CPTS.Travel@us.af.mil",
         "address": "500 Fisher Street, Room 105, Keesler AFB MS, 39534"
     },
     {
@@ -299,7 +299,6 @@
         "id": "e96fcbef-2f86-407e-9dcb-11177c910aeb",
         "name": "Lajes Field",
         "dsnPhone": "314-535-3403",
-        "commercialPhone": "N/A",
         "email": "cristina.silva@us.af.mil/alex.westing@us.af.mil",
         "address": "Unit 7710, APO AP, 09720=7710"
     },
@@ -506,15 +505,15 @@
     {
         "id": "eca4758c-fc85-4d75-a4da-6b37beb1276d",
         "name": "Presidio of Monterey",
-        "dsnPhone": "768-6322/5065",
-        "commercialPhone": "831-242-6322/5065",
+        "dsnPhone": "768-6322;5065",
+        "commercialPhone": "831-242-6322;5065",
         "email": "lawrence.robinson.2@us.af.mil/tyler.trusty@us.af.mil",
         "address": "412 Rifle Range Road, Building 616, Room 226, Monterey CA, 93944"
     },
     {
         "id": "326de91f-99f5-4050-9510-687ba565af2b",
         "name": "RAF Alconbury",
-        "dsnPhone": "314-268-3640/3028",
+        "dsnPhone": "314-268-3640;3028",
         "commercialPhone": "011-44-1480-84-3640",
         "email": "501csw.fmfs.customerservice@us.af.mil",
         "address": "Unit 5555 Box 9, APO AE, 09470-5555"
@@ -530,16 +529,14 @@
     {
         "id": "d26220e7-1af2-4367-8b15-3769e9f22c76",
         "name": "RAF Menwith Hill",
-        "dsnPhone": "314-268-3640/3028",
-        "commercialPhone": "011-44-1480-84-3460/3028",
+        "dsnPhone": "314-268-3640;3028",
+        "commercialPhone": "011-44-1480-84-3460;3028",
         "email": "501csw.fmfs.customerservice@us.af.mil",
         "address": "Unit 8450, APO AE, 09468"
     },
     {
         "id": "24ae3199-7181-4fe3-901d-0220122faa2b",
         "name": "RAF Mildenhall",
-        "dsnPhone": "email only",
-        "commercialPhone": "email only",
         "email": "100cpts.fmfs@us.af.mil",
         "address": "Unit 4910 Box 365, APO AE, 09459-0365"
     },
@@ -627,7 +624,7 @@
         "id": "2461618f-6e60-4117-bf68-d1779e0bf700",
         "name": "Stuttgart",
         "dsnPhone": "314-430-5603",
-        "commercialPhone": "011-49-0711-680-5603/8340",
+        "commercialPhone": "011-49-0711-680-5603;8340",
         "email": "52cpts.fmfc@us.af.mil",
         "address": "Unit 30400, APO AE, 09131-0400"
     },
@@ -690,8 +687,6 @@
     {
         "id": "656eb2ea-68ad-48f4-b2fb-3205859e9e02",
         "name": "Wright Patterson AFB",
-        "dsnPhone": "email only",
-        "commercialPhone": "email only",
         "email": "payhelp@wpafb.af.mil",
         "address": "1940 Allbrook Drive, Wright-Patterson AFB OH, 45433-5261"
     },
