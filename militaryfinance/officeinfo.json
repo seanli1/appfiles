@@ -299,7 +299,7 @@
         "id": "e96fcbef-2f86-407e-9dcb-11177c910aeb",
         "name": "Lajes Field",
         "dsnPhone": "314-535-3403",
-        "commercialPhone": "null",
+        "commercialPhone": null,
         "email": "cristina.silva@us.af.mil/alex.westing@us.af.mil",
         "address": "Unit 7710, APO AP, 09720=7710"
     },
@@ -538,8 +538,8 @@
     {
         "id": "24ae3199-7181-4fe3-901d-0220122faa2b",
         "name": "RAF Mildenhall",
-        "dsnPhone": "null",
-        "commercialPhone": "null",
+        "dsnPhone": null,
+        "commercialPhone": null,
         "email": "100cpts.fmfs@us.af.mil",
         "address": "Unit 4910 Box 365, APO AE, 09459-0365"
     },
@@ -690,8 +690,8 @@
     {
         "id": "656eb2ea-68ad-48f4-b2fb-3205859e9e02",
         "name": "Wright Patterson AFB",
-        "dsnPhone": "null",
-        "commercialPhone": "null",
+        "dsnPhone": null,
+        "commercialPhone": null,
         "email": "payhelp@wpafb.af.mil",
         "address": "1940 Allbrook Drive, Wright-Patterson AFB OH, 45433-5261"
     },
