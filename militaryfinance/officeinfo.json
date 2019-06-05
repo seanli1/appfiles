@@ -1,6 +1,4 @@
-[
-    {
-        "id": "28fb5e1a-bc0f-4e28-a48d-5c084cefcf55",
+[{
         "name": "Altus AFB",
         "dsnPhone": "866-7479",
         "commercialPhone": "580-481-7479",
@@ -8,7 +6,6 @@
         "address": "308 North 1st St, suite 1301, Altus AFB OK, 73523"
     },
     {
-        "id": "14e310e1-8b98-4004-9d80-8b115292c9ff",
         "name": "Andersen AFB",
         "dsnPhone": "315-366-1770",
         "commercialPhone": "671-366-1770",
@@ -16,7 +13,6 @@
         "address": "Unit 14003, Box 31, APO AP, 96543-4003"
     },
     {
-        "id": "d2d4051b-8b9b-42de-8209-f38b1b86c44d",
         "name": "Andrews JB",
         "dsnPhone": "857-6377",
         "commercialPhone": "1-877-729-2339",
@@ -24,7 +20,6 @@
         "address": "1500 West Perimeter Rd, Suite 2780, JB Andrews MD, 20762"
     },
     {
-        "id": "4eea1ad8-bb4b-4ce3-954e-5f1f9d9f5f64",
         "name": "Arnold AFB",
         "dsnPhone": "340-4356",
         "commercialPhone": "931-454-4356",
@@ -32,7 +27,6 @@
         "address": "100 Kindel Drive, Suite A308, Arnold AFB TN, 37389"
     },
     {
-        "id": "502a9022-c4be-4f9b-9d7d-a1961a3246d8",
         "name": "Aviano AB",
         "dsnPhone": "314-632-2274",
         "commercialPhone": "011-39-0434-632-2274",
@@ -40,7 +34,6 @@
         "address": "Unit 6142 Box 145, APO AE, 09604"
     },
     {
-        "id": "52e02b43-54d8-475c-973d-38842971818b",
         "name": "Barksdale AFB",
         "dsnPhone": "781-4733",
         "commercialPhone": "318-456-4733",
@@ -48,7 +41,6 @@
         "address": "801 Kenney Avenue, Bldg 4400 Barksdale AFB LA, 71110-2045"
     },
     {
-        "id": "8a196da3-4bcc-4edb-8947-e14652f79e98",
         "name": "Beale AFB",
         "dsnPhone": "368-2218",
         "commercialPhone": "530-634-2218",
@@ -56,7 +48,6 @@
         "address": "17855 Warren Shingle Road, Beale AFB CA, 95903"
     },
     {
-        "id": "57fcfabc-cd25-4c6c-b963-fb304955d984",
         "name": "Bolling AFB",
         "dsnPhone": "297-0139",
         "commercialPhone": "202-767-0139",
@@ -64,7 +55,6 @@
         "address": "20 MacDill Blvd., Suite 240, Washington DC 20032"
     },
     {
-        "id": "2787edf3-5fa8-48d8-8366-1113d3a28968",
         "name": "Buckley AFB",
         "dsnPhone": "847-6416",
         "commercialPhone": "720-847-6416",
@@ -72,7 +62,6 @@
         "address": "510 South Aspen Street, Stop 84, Buckley AFB CO, 80011"
     },
     {
-        "id": "c2bebcc4-25d1-44e8-b914-fce4ba0c1928",
         "name": "Cannon AFB",
         "dsnPhone": "784-1161;4161",
         "commercialPhone": "575-784-1161;4161",
@@ -80,7 +69,6 @@
         "address": "110 E. Sextant Avenue, Bldg 600, Suite 1119, Cannon AFB NM, 88103-5324"
     },
     {
-        "id": "a98b8c18-0c74-4464-9d0e-b3875a0d631c",
         "name": "Charleston AFB",
         "dsnPhone": "673-3702",
         "commercialPhone": "843-963-3702",
@@ -88,7 +76,6 @@
         "address": "102 North Davis Drive, Building 322, Charleston AFB SC, 29404"
     },
     {
-        "id": "97729f2f-6a8f-49a6-bc3d-39e395ccffde",
         "name": "Columbus AFB",
         "dsnPhone": "742-2705",
         "commercialPhone": "662-434-2705",
@@ -96,7 +83,6 @@
         "address": "495 Harpe Blvd., Suite 256C, Columbus AFB MS, 39710"
     },
     {
-        "id": "991c38c0-7934-45d9-8e2d-5774e5d9235b",
         "name": "Davis Monthan AFB",
         "dsnPhone": "228-5111",
         "commercialPhone": "520-228-5111",
@@ -104,7 +90,6 @@
         "address": "5275 East Granite Street, Davis-Monthan AFB AZ, 85707-3014"
     },
     {
-        "id": "68824bbb-2142-43fc-845b-87f201638593",
         "name": "Dover AFB",
         "dsnPhone": "445-4486",
         "commercialPhone": "302-677-4486",
@@ -112,7 +97,6 @@
         "address": "520 Atlantic Avenue Room 127, Dover AFB DE, 19902"
     },
     {
-        "id": "1944dce6-ac44-4625-a1c3-7267a4b4961b",
         "name": "Dyess AFB",
         "dsnPhone": "461-4193",
         "commercialPhone": "325-696-4193",
@@ -120,7 +104,6 @@
         "address": "7 Lancer Loop, Suite 122, Dyess AFB TX, 79607-2050"
     },
     {
-        "id": "33170782-e85e-403f-929d-91941f8e15e8",
         "name": "Edwards AFB",
         "dsnPhone": "527-4550",
         "commercialPhone": "661-277-4550",
@@ -128,7 +111,6 @@
         "address": "5 S. Wolfe Avenue, Building 2800, Edwards AFB CA, 93524"
     },
     {
-        "id": "4e0b36eb-cd7a-4783-b48e-483d95327cfb",
         "name": "Eglin AFB",
         "dsnPhone": "872-1114",
         "commercialPhone": "850-882-1114",
@@ -136,7 +118,6 @@
         "address": "208 West D Avenue, Suite 104, Eglin AFB FL, 32542"
     },
     {
-        "id": "342e27dc-3559-412d-8af1-184cc4edb426",
         "name": "Eielson AFB",
         "dsnPhone": "317-377-2787",
         "commercialPhone": "907-377-2787",
@@ -144,7 +125,6 @@
         "address": "354 Broadway Street, Unit 4B, Eielson AFB AK, 99702"
     },
     {
-        "id": "07c67df9-2e12-4a9a-8661-895c6f0ce9ae",
         "name": "Ellsworth AFB",
         "dsnPhone": "675-1490",
         "commercialPhone": "605-385-1490",
@@ -152,7 +132,6 @@
         "address": "1000 Ellsworth Street, Suite 1100, Ellsworth AFB SD, 57706-4810"
     },
     {
-        "id": "7ccb4393-df1b-4503-9132-7ca571b4307a",
         "name": "Elmendorf AFB",
         "dsnPhone": "317-552-9940",
         "commercialPhone": "907-552-9940",
@@ -160,7 +139,6 @@
         "address": "8517 20th Street, Suite 103, JBER AK, 99506"
     },
     {
-        "id": "e4e06ae6-5148-46a7-8fa6-b235a43a017e",
         "name": "F E Warren AFB",
         "dsnPhone": "481-1851",
         "commercialPhone": "307-773-1851",
@@ -168,7 +146,6 @@
         "address": "7100 Saber Road, Building 1284, Francis E. Warren AFB WY, 82005"
     },
     {
-        "id": "6eae8d09-b415-4cef-971e-91c6d3a3d695",
         "name": "Fairchild AFB",
         "dsnPhone": "657-3748",
         "commercialPhone": "509-247-3748",
@@ -176,7 +153,6 @@
         "address": "200 West Bong Street, Building 2245, Fairchild AFB WA, 99011-8524"
     },
     {
-        "id": "7378d179-5058-4205-99c3-5aecfec9f4c6",
         "name": "Ft Meade",
         "dsnPhone": "622-0815",
         "commercialPhone": "301-677-0815",
@@ -184,7 +160,6 @@
         "address": "9804 Love Road, Suite 115B, Fort Meade MD, 20755"
     },
     {
-        "id": "092c7d36-654b-46e2-a449-dcf84901e731",
         "name": "Geilenkirchen AB",
         "dsnPhone": "314-458-6134",
         "commercialPhone": "011-49-2451-63-2218",
@@ -192,7 +167,6 @@
         "address": "PSC 7 Box 3485, APO AE, 09104"
     },
     {
-        "id": "0b9b147e-885d-42bd-8134-0d8fb0ce7441",
         "name": "Goodfellow AFB",
         "dsnPhone": "477-5181",
         "commercialPhone": "325-654-5181",
@@ -200,7 +174,6 @@
         "address": "351 Kearney Blvd., Building 430, Suite 101, Goodfellow AFB TX, 76908"
     },
     {
-        "id": "4157beff-c2d4-4fe3-8b62-dadd18812842",
         "name": "Grand Forks AFB",
         "dsnPhone": "362-6302",
         "commercialPhone": "701-747-6302",
@@ -208,7 +181,6 @@
         "address": "226 Steen Blvd, Grank Forks AFB ND, 58207"
     },
     {
-        "id": "67616d76-3bb0-4ce7-ac5d-eb0cbdb8baa8",
         "name": "Hanscom AFB",
         "dsnPhone": "845-1210",
         "commercialPhone": "781-225-1210",
@@ -216,7 +188,6 @@
         "address": "20 Schilling Circle, Hanscom AFB MA, 01731-2800"
     },
     {
-        "id": "11f8ce26-49b6-4042-b828-5a6fc274a29b",
         "name": "Hickam",
         "dsnPhone": "449-0893",
         "commercialPhone": "808-449-0893",
@@ -224,7 +195,6 @@
         "address": "900 Hanger Ave, Rm 110, Joint Base Pearl Harbor-Hickam, HI 96853"
     },
     {
-        "id": "a852037a-1676-400b-bec4-00497ff1e92b",
         "name": "Hill AFB",
         "dsnPhone": "777-1851",
         "commercialPhone": "801-777-1851",
@@ -232,7 +202,6 @@
         "address": "7437 6th Street, Building 430, Hill AFB UT, 84056-5805"
     },
     {
-        "id": "04819e3b-6f0e-425c-80c1-664a5eb0f9b0",
         "name": "Holloman AFB",
         "dsnPhone": "572-3778",
         "commercialPhone": "575-572-3778",
@@ -240,7 +209,6 @@
         "address": "490 First Street, Suite 2113, Holloman AFB NM, 88330-8277"
     },
     {
-        "id": "d8f13398-2b48-417e-a6fa-c4bf470bacb4",
         "name": "Hurlburt Field",
         "dsnPhone": "884-4119",
         "commercialPhone": "850-884-4119",
@@ -248,7 +216,6 @@
         "address": "212 LukasikAvenue, Suite 129, Hurlburt Field FL, 32544-5269"
     },
     {
-        "id": "ca5b7bdb-393c-4fab-a536-7fefe760893b",
         "name": "Incirlik AB",
         "dsnPhone": "314-676-8114",
         "commercialPhone": "011-90-332-316-8114",
@@ -256,7 +223,6 @@
         "address": "Unit 7055 Box 155, APO AE, 09824"
     },
     {
-        "id": "5c0ecc28-7854-482d-94d5-bbc62e8bc14a",
         "name": "Kadena AB",
         "dsnPhone": "315-634-1415/315-634-7349;4000",
         "commercialPhone": "011-81-611-734-1415/011-81-611-734-7349;4000",
@@ -264,7 +230,6 @@
         "address": "Unit 5271 Box 10, APO AP, 96368-5271"
     },
     {
-        "id": "11b040ef-3973-4f1a-88e9-3b7af5b483ae",
         "name": "Keesler AFB",
         "dsnPhone": "591-8213",
         "commercialPhone": "228-376-8213",
@@ -272,7 +237,6 @@
         "address": "500 Fisher Street, Room 105, Keesler AFB MS, 39534"
     },
     {
-        "id": "19e02504-185c-43e9-a4a8-aa026175337d",
         "name": "Kirtland AFB",
         "dsnPhone": "246-7258",
         "commercialPhone": "505-846-7258",
@@ -280,7 +244,6 @@
         "address": "1451 4th Street SE, Kirtland AFB, NM 87117-5522"
     },
     {
-        "id": "7caef5d1-52a6-449e-8ac2-743c974f3cde",
         "name": "Kunsan AB",
         "dsnPhone": "315-782-6636",
         "commercialPhone": "011-82-63-4793-6636",
@@ -288,7 +251,6 @@
         "address": "PSC 2 Box 2090, APO AP, 96264-2090"
     },
     {
-        "id": "361cd353-c8fa-4a75-971d-29187ac76c8b",
         "name": "Lackland AFB",
         "dsnPhone": "473-1851",
         "commercialPhone": "210-671-1851",
@@ -296,7 +258,6 @@
         "address": "1561 Stewart Street, Suite 1, Lackland AFB TX, 78236-5213"
     },
     {
-        "id": "e96fcbef-2f86-407e-9dcb-11177c910aeb",
         "name": "Lajes Field",
         "dsnPhone": "314-535-3403",
         "commercialPhone": null,
@@ -304,7 +265,6 @@
         "address": "Unit 7710, APO AP, 09720=7710"
     },
     {
-        "id": "fe1e6b39-1894-4ee5-a92d-b670c850a97e",
         "name": "Langley AFB",
         "dsnPhone": "574-3333",
         "commercialPhone": "757-764-3333",
@@ -312,7 +272,6 @@
         "address": "45 Nealy Avenue, Suite 109, Langley AFB VA, 23665"
     },
     {
-        "id": "b1225275-4a29-424a-9924-37421eea4b3e",
         "name": "Laughlin AFB",
         "dsnPhone": "732-5215",
         "commercialPhone": "830-298-5215",
@@ -320,7 +279,6 @@
         "address": "427 Libery Drive, Laughlin AFB TX, 78843-5152"
     },
     {
-        "id": "9d40f430-08b0-4557-967c-304771025d3a",
         "name": "Little Rock AFB",
         "dsnPhone": "731-8294",
         "commercialPhone": "501-987-8294",
@@ -328,7 +286,6 @@
         "address": "1255 Vandenberg Blvd, Suite 124, Little Rock AFB AR, 72099"
     },
     {
-        "id": "381c7416-f187-427a-b46e-ae5491429bab",
         "name": "Los Angeles AFB",
         "dsnPhone": "633-2274",
         "commercialPhone": "310-653-2274",
@@ -336,7 +293,6 @@
         "address": "483 North Aviation Blvd, El Segundo CA, 90245-2808"
     },
     {
-        "id": "dda00cd6-eac1-432d-92fc-8fa57d0b65f2",
         "name": "Luke AFB",
         "dsnPhone": "896-7028",
         "commercialPhone": "623-856-7028",
@@ -344,7 +300,6 @@
         "address": "7383 North Litchfield Road, Suite 1076, Luke AFB AZ, 85309-1526"
     },
     {
-        "id": "2c6566c7-1b9b-4c13-b01c-a12cce165515",
         "name": "MacDill AFB",
         "dsnPhone": "968-5377",
         "commercialPhone": "813-828-5377",
@@ -352,7 +307,6 @@
         "address": "2610 Pink Flamingo Avenue, MacDill AFB FL, 33621"
     },
     {
-        "id": "3940e98d-3e6b-4fb0-bf19-5c0668997c2a",
         "name": "Malmstrom AFB",
         "dsnPhone": "632-3193",
         "commercialPhone": "406-731-4226",
@@ -360,7 +314,6 @@
         "address": "7215 Goddard Drive, Bldg 1191, Room 114, Malmstrom AFB MT, 59402-6857"
     },
     {
-        "id": "539386fa-8ad4-49a3-b8af-de0f215d5643",
         "name": "Maxwell AFB",
         "dsnPhone": "493-3288",
         "commercialPhone": "334-953-3288",
@@ -368,7 +321,6 @@
         "address": "50 LeMay Plaza South Building 804, Maxwell AFB AL, 36112"
     },
     {
-        "id": "790de170-2704-4317-9eab-a9f4ab3ff85e",
         "name": "McChord AFB",
         "dsnPhone": "382-3945",
         "commercialPhone": "253-982-3945",
@@ -376,7 +328,6 @@
         "address": "100 Col. Joe Jackson Blvd, Suite 1122, JBLM McChord Field WA, 98438"
     },
     {
-        "id": "5677f722-641d-44ba-ac47-54b3949c629b",
         "name": "McConnell AFB",
         "dsnPhone": "743-4618",
         "commercialPhone": "316-759-4618",
@@ -384,7 +335,6 @@
         "address": "53155 Kansas Street, Suite 112, McConnell AFB KS, 67221-3608"
     },
     {
-        "id": "e1ec4a70-d916-4d00-b520-0735a931cc4f",
         "name": "McGuire AFB",
         "dsnPhone": "650-3863",
         "commercialPhone": "609-754-3863",
@@ -392,7 +342,6 @@
         "address": "2906 Tuskegee Airman Avenue, McGuire AFB NJ, 08641"
     },
     {
-        "id": "bb6099d8-99d6-450c-a80b-a9f89356a74f",
         "name": "Minot AFB",
         "dsnPhone": "453-3309",
         "commercialPhone": "701-723-2468",
@@ -400,7 +349,6 @@
         "address": "300 Summit Drive, Suite 325, Minot AFB ND, 58705"
     },
     {
-        "id": "7217e7fb-e43e-48e9-8b83-64a997510b9f",
         "name": "Misawa AB",
         "dsnPhone": "315-226-2274",
         "commercialPhone": "011-81-76-77-2274",
@@ -408,7 +356,6 @@
         "address": "Unit 5009 Box 20, APO AP, 96319-5009"
     },
     {
-        "id": "d55a15dd-87f8-47d3-9079-c7bfd8229676",
         "name": "Moody AFB",
         "dsnPhone": "460-1482",
         "commercialPhone": "229-257-1482",
@@ -416,7 +363,6 @@
         "address": "23 Flying Tiger Way, Suite 170, Moody AFB GA, 31699-1596"
     },
     {
-        "id": "5a4ffb67-c139-4441-ba71-8a6c52104b1e",
         "name": "Mountain Home AFB",
         "dsnPhone": "728-2046",
         "commercialPhone": "208-828-2406",
@@ -424,7 +370,6 @@
         "address": "366 Gunfighter Avenue, Suite 254, Mountain Home AFB ID, 83648"
     },
     {
-        "id": "88e60260-9a40-4c6f-9ef5-5a186594f2ed",
         "name": "MUNSS - Shape",
         "dsnPhone": "314-366-6655",
         "commercialPhone": "011-32-65-326655",
@@ -432,7 +377,6 @@
         "address": "Unit 21420 Box 5500, APO AE, 09705"
     },
     {
-        "id": "14c18312-8e75-440f-8ea1-f5439fccfe24",
         "name": "MUNSS - Volkel",
         "dsnPhone": "359-5947",
         "commercialPhone": "011-49-041333-5947",
@@ -440,7 +384,6 @@
         "address": "Unit 6790, APO AE, 09717"
     },
     {
-        "id": "3813fcc9-211b-4b1d-b39b-ddf4ded30013",
         "name": "Nellis AFB",
         "dsnPhone": "682-4844",
         "commercialPhone": "702-652-4844",
@@ -448,7 +391,6 @@
         "address": "4420 Grissom Avenue, Nellis AFB NV, 89191"
     },
     {
-        "id": "64595afd-88f4-4552-ab72-86f7d560ffbb",
         "name": "Offutt AFB",
         "dsnPhone": "271-3300",
         "commercialPhone": "402-294-3300",
@@ -456,7 +398,6 @@
         "address": "106 Peacekeeper Drive, Suite 2N3 Offutt AFB NE, 68133"
     },
     {
-        "id": "7c689dcb-2249-44e6-9568-771759e53680",
         "name": "Osan AB",
         "dsnPhone": "315-784-1851",
         "commercialPhone": "011-82-31-661-1851",
@@ -464,7 +405,6 @@
         "address": "Unit 2067, APO AP, 96278-2067"
     },
     {
-        "id": "0bd26b5b-937f-4784-b206-94112bdc7d95",
         "name": "Patrick AFB",
         "dsnPhone": "854-4882",
         "commercialPhone": "321-494-4882",
@@ -472,7 +412,6 @@
         "address": "1225 Jupiter Street, Patrick AFB FL, 32925"
     },
     {
-        "id": "69e48d43-f7af-445a-ada7-2d99aab049ba",
         "name": "Pensacola Corry Station",
         "dsnPhone": "459-0938",
         "commercialPhone": "850-452-0938",
@@ -480,7 +419,6 @@
         "address": "520 Turner Street, NAS Pensacola FL, 32508"
     },
     {
-        "id": "f33de28f-384d-4d51-9dd0-15a302649ec7",
         "name": "Pentagon",
         "dsnPhone": "225-1299",
         "commercialPhone": "703-695-1299",
@@ -488,7 +426,6 @@
         "address": "1240 Air Force Pentagon Room 5C1049, Washington DC, 20330-1240"
     },
     {
-        "id": "1bcdf29c-d0a8-490e-b06f-bf23f00d0047",
         "name": "Peterson AFB",
         "dsnPhone": "556-4770",
         "commercialPhone": "719-834-4770",
@@ -496,7 +433,6 @@
         "address": "135 Dover Street, Suite 2009, Peterson AFB CO, 80914-1137"
     },
     {
-        "id": "2b639e71-ae76-426e-95b0-0a90a64fae8d",
         "name": "Pope AFB",
         "dsnPhone": "424-1412",
         "commercialPhone": "910-394-1412",
@@ -504,7 +440,6 @@
         "address": "5451 Reilly Street, Pope AFB NC, 28308"
     },
     {
-        "id": "eca4758c-fc85-4d75-a4da-6b37beb1276d",
         "name": "Presidio of Monterey",
         "dsnPhone": "768-6322;5065",
         "commercialPhone": "831-242-6322;5065",
@@ -512,7 +447,6 @@
         "address": "412 Rifle Range Road, Building 616, Room 226, Monterey CA, 93944"
     },
     {
-        "id": "326de91f-99f5-4050-9510-687ba565af2b",
         "name": "RAF Alconbury",
         "dsnPhone": "314-268-3640;3028",
         "commercialPhone": "011-44-1480-84-3640",
@@ -520,7 +454,6 @@
         "address": "Unit 5555 Box 9, APO AE, 09470-5555"
     },
     {
-        "id": "211cbfc1-deb8-461b-ad4e-115228ea71de",
         "name": "RAF Lakenheath",
         "dsnPhone": "314-226-1851",
         "commercialPhone": "011-44-1638-521-851",
@@ -528,7 +461,6 @@
         "address": "Unit 5170 Box 290, APO AE, 09464"
     },
     {
-        "id": "d26220e7-1af2-4367-8b15-3769e9f22c76",
         "name": "RAF Menwith Hill",
         "dsnPhone": "314-268-3640;3028",
         "commercialPhone": "011-44-1480-84-3460;3028",
@@ -536,7 +468,6 @@
         "address": "Unit 8450, APO AE, 09468"
     },
     {
-        "id": "24ae3199-7181-4fe3-901d-0220122faa2b",
         "name": "RAF Mildenhall",
         "dsnPhone": null,
         "commercialPhone": null,
@@ -544,7 +475,6 @@
         "address": "Unit 4910 Box 365, APO AE, 09459-0365"
     },
     {
-        "id": "8992d899-535d-4c66-81fe-4697b72b6262",
         "name": "Ramstein AB",
         "dsnPhone": "314-480-7201",
         "commercialPhone": "011-49-6371-47-7201",
@@ -552,7 +482,6 @@
         "address": "Unit 3195 Box 305, APO AE, 09094"
     },
     {
-        "id": "1de397ab-a713-455a-97e7-d144813aa888",
         "name": "Randolph AFB",
         "dsnPhone": "473-1851",
         "commercialPhone": "210-671-1851",
@@ -560,7 +489,6 @@
         "address": "550 D Street East, Suite 2, Building 399, Randolph AFB TX, 78150-4428"
     },
     {
-        "id": "1d98ee52-3301-465b-9b8a-a1ad6e9c4d3b",
         "name": "Robins AFB",
         "dsnPhone": "468-4022",
         "commercialPhone": "478-926-4022",
@@ -568,7 +496,6 @@
         "address": "236 Milledgeville Street, Suite F26, Robins AFB GA, 31098"
     },
     {
-        "id": "8de8923f-8b3a-47f4-8afe-ff0500827a03",
         "name": "Rome Labs",
         "dsnPhone": "587-2226",
         "commercialPhone": "315-330-2226",
@@ -576,7 +503,6 @@
         "address": "26 Electronic Parkway, Rome NY, 13441"
     },
     {
-        "id": "9ea7e2ae-28fc-47ac-b564-d7eae9e06d8e",
         "name": "Schriever AFB",
         "dsnPhone": "560-2010",
         "commercialPhone": "719-567-2010",
@@ -584,7 +510,6 @@
         "address": "210 Falcon Parkway, Suite 146A, Schriever AFB CO, 80912-2110"
     },
     {
-        "id": "b7785642-2916-4e7c-a6a8-bbdbc4711fb8",
         "name": "Scott AFB",
         "dsnPhone": "576-1851",
         "commercialPhone": "618-256-1851",
@@ -592,7 +517,6 @@
         "address": "215 Heritage Drive, Room D205, Scott AFB IL, 62225-5000"
     },
     {
-        "id": "592914f6-f88e-4cd2-972b-03e48ab8a71c",
         "name": "Seymour Johnson AFB",
         "dsnPhone": "722-5679",
         "commercialPhone": "919-722-5679",
@@ -600,7 +524,6 @@
         "address": "1600 Wright Brothers Avenue, Seymour Johnson AFB, NC 27531-2441"
     },
     {
-        "id": "5f004227-11d6-406e-874f-7b99232c8799",
         "name": "Shaw AFB",
         "dsnPhone": "965-1529",
         "commercialPhone": "803-895-1529",
@@ -608,7 +531,6 @@
         "address": "504 Shaw Drive, Suite 1118, Shaw AFB SC, 29152-5028"
     },
     {
-        "id": "96cfd09b-cad8-4dfe-b98c-e9eafeadf7c2",
         "name": "Sheppard AFB",
         "dsnPhone": "736-4864",
         "commercialPhone": "940-736-4864",
@@ -616,7 +538,6 @@
         "address": "426 5th Avenue, Suite 9, Sheppard AFB TX, 76311"
     },
     {
-        "id": "d139072e-2521-4c76-9b6b-7b1fe7662fd5",
         "name": "Spangdahlem AB",
         "dsnPhone": "314-452-6763",
         "commercialPhone": "011-49-656561-6763",
@@ -624,7 +545,6 @@
         "address": "Unit 3630, APO AE, 09126"
     },
     {
-        "id": "2461618f-6e60-4117-bf68-d1779e0bf700",
         "name": "Stuttgart",
         "dsnPhone": "314-430-5603",
         "commercialPhone": "011-49-0711-680-5603;8340",
@@ -632,7 +552,6 @@
         "address": "Unit 30400, APO AE, 09131-0400"
     },
     {
-        "id": "02df8c37-64a6-47de-bd49-55b712ba0595",
         "name": "Tinker AFB",
         "dsnPhone": "339-5180",
         "commercialPhone": "405-739-5180",
@@ -640,7 +559,6 @@
         "address": "3350 D Avenue, Suite N29, Tinker AFB OK, 73145"
     },
     {
-        "id": "c79a05c6-955b-4972-8062-2c6597575ecb",
         "name": "Travis AFB",
         "dsnPhone": "837-8359",
         "commercialPhone": "707-424-8359",
@@ -648,7 +566,6 @@
         "address": "540 Airlift Drive F-1 Wing, Travis AFB CA, 94535-2462"
     },
     {
-        "id": "610a99c8-ee11-4a5d-9fd7-4acb5b2fe830",
         "name": "Tyndall AFB",
         "dsnPhone": "523-4117",
         "commercialPhone": "850-283-4117",
@@ -656,7 +573,6 @@
         "address": "ATTN:FMF 501 Illinios Ave, Ste 124,Tyndall AFB FL, 32403"
     },
     {
-        "id": "a73002df-1761-4519-9a02-45aa82a88230",
         "name": "USAF Academy",
         "dsnPhone": "333-4298",
         "commercialPhone": "719-333-4298",
@@ -664,7 +580,6 @@
         "address": "2304 Cadet Drive, Suite 2200, USAF Academy CO, 80840-5035"
     },
     {
-        "id": "84900941-a706-4788-89d3-7fc7a0208ef2",
         "name": "Vance AFB",
         "dsnPhone": "448-7498",
         "commercialPhone": "580-213-7498",
@@ -672,7 +587,6 @@
         "address": "246 Brown Parkway, Suite 102, Vance AFB OK, 73705-5008"
     },
     {
-        "id": "daafd3fb-f4ce-46f4-a3e4-3526ae76dcc3",
         "name": "Vandenberg AFB",
         "dsnPhone": "276-4606",
         "commercialPhone": "805-606-4606",
@@ -680,7 +594,6 @@
         "address": "1031 California Blvd., Building 11777, Vandenberg AFB CA, 93437"
     },
     {
-        "id": "39e7d572-6651-405c-9a4e-30e94fc9acf7",
         "name": "Whiteman AFB",
         "dsnPhone": "975-2006",
         "commercialPhone": "660-687-2006",
@@ -688,7 +601,6 @@
         "address": "509 Spirit Blvd., Suite 115, Whiteman AFB MO, 65305"
     },
     {
-        "id": "656eb2ea-68ad-48f4-b2fb-3205859e9e02",
         "name": "Wright Patterson AFB",
         "dsnPhone": null,
         "commercialPhone": null,
@@ -696,7 +608,6 @@
         "address": "1940 Allbrook Drive, Wright-Patterson AFB OH, 45433-5261"
     },
     {
-        "id": "1268ef73-a0b2-44cc-9f55-b25af0b1ddc3",
         "name": "Yokota AB",
         "dsnPhone": "315-225-7825",
         "commercialPhone": "011-81-311-755-7825",
