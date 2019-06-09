@@ -1,0 +1,120 @@
+{
+    "me": {
+        "id": "24356",
+        "username": "seanli1",
+        "displayName": "Sean Li",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 0,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    },
+    "users": [{
+        "id": "45773465",
+        "username": "jabroni251",
+        "displayName": "Jackass McGee",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 52343,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    }, {
+        "id": "62345",
+        "username": "DongLover",
+        "displayName": "Don Glover",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 43523,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    }, {
+        "id": "62346743",
+        "username": "RitzBlitz",
+        "displayName": "Cheese N. Crackers",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 662262,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    }, {
+        "id": "623462345454",
+        "username": "nodogsallowed",
+        "displayName": "Kat Purrson",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 512342,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    }, {
+        "id": "2346123643",
+        "username": "GoHomeDewey",
+        "displayName": "Don Juan",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut orci felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at molestie dui. Ut dignissim magna quam, ac fringilla dolor malesuada ut. Proin efficitur mauris accumsan ante varius, a pretium nisi dictum. Vestibulum elit leo, semper quis lacinia sed, hendrerit a nibh. Aliquam quis massa commodo, condimentum neque id, aliquet dui."
+,
+        "location": "New York",
+        "completedTasks": null,
+        "score": 57384,
+        "friends": null,
+        "addedTasks": null,
+        "addedOrganizations": null,
+        "images": null
+    }],
+    "tasks": [{
+        "id": "623435645454",
+        "pointValue": 50,
+        "name": "Turn Off The Lights",
+        "description": "Turn off the lights whenever you leave the room!",
+        "impactRating": 3.53,
+        "costRating": 0,
+        "timeRating": 0.5,
+        "frequency": "Daily",
+        "rank": 32,
+        "images": ["521232", "12324"],
+        "creator": "1234",
+        "contributors": ["523423", "124635432", "4634532"],
+        "doers": ["123", "6234", "8483"]
+    }],
+    "images": [{
+        "id": "724352345",
+        "location": "New York",
+        "imageUrl": "https://google.com",
+        "creator": "62346743",
+        "task": "623435645454"
+    },
+    {
+        "id": "6234542",
+        "location": "New York",
+        "imageUrl": "https://google.com",
+        "creator": "24356",
+        "task": "623435645454"
+    }],
+    "organizations": [{
+        "id": "23462345",
+        "name": "The Green Club",
+        "bio": "This club is about doing cool stuff",
+        "address": "123 Address Lane, New York, NY 11111",
+        "phone": "102-395-3483",
+        "website": "www.revolverlighting.com"
+    }]
+}
+
