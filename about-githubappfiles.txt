@@ -1,3 +1,5 @@
+Changing files here may require apps to be updated!
+
 Apps confirmed to not rely on githubappfiles:
 Box Buddy
 Quick Distro
