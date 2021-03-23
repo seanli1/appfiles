@@ -1,0 +1,5 @@
+Apps confirmed to not rely on githubappfiles:
+Box Buddy
+Quick Distro
+Magic Ate Ball
+QR Anywhere? (double confirm this)
